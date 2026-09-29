@@ -17,13 +17,13 @@ draft: true
 ---
 
 ### Hattula
-![Hattula gamla kyrka](/posts/2026-08-22-hfors3/25-hattula_gamla_kyrka.jpg "Hattulas gamla kyrka, 22.8.2026")
-![Hattula kyrka](/posts/2026-08-22-hfors3/26-hattula_kyrka.jpg "Hattulas kyrka, 22.8.2026")
+![Hattula gamla kyrka](/posts/2026-08-22-hfors3/25-hattula_gamla_kyrka.jpg "Hattula gamla kyrka, 22.8.2026")
+![Hattula kyrka](/posts/2026-08-22-hfors3/26-hattula_kyrka.jpg "Hattula kyrka, 22.8.2026")
 
 ---
 
 ### Hausjärvi
-![Hausjärvi kyrka](/posts/2026-08-22-hfors3/14-hausjarvi_kyrka.jpg "Hausjärvis kyrka, 22.8.2026")
+![Hausjärvi kyrka](/posts/2026-08-22-hfors3/14-hausjarvi_kyrka.jpg "Hausjärvi kyrka, 22.8.2026")
 
 ---
 
@@ -32,24 +32,24 @@ draft: true
 
 ---
 
-### Jockis (Jokioinen)
+### Jockis (fi: Jokioinen)
 ![Jockis kyrka](/posts/2026-08-08-natur-glas-bilar/17-jockis_kyrka.jpg "Jockis kyrka, 8.8.2026")
 ---
 
 ### Janakkala
-![Janakkala kyrka](/posts/2026-08-22-hfors3/20-janakkala_kyrka.jpg "Janakkalas gamla kyrka, 22.8.2026")
-![Tervakoski kyrka](/posts/2026-08-22-hfors3/16-tervakoski_kyrka.jpg "Tervakoskis kyrka, 22.8.2026")
-![Turengi kyrka](/posts/2026-08-22-hfors3/21-turengi_kyrka.jpg "Turengis kyrka, 22.8.2026")
+![Janakkala kyrka](/posts/2026-08-22-hfors3/20-janakkala_kyrka.jpg "Janakkala gamla kyrka, 22.8.2026")
+![Tervakoski kyrka](/posts/2026-08-22-hfors3/16-tervakoski_kyrka.jpg "Tervakoski kyrka, 22.8.2026")
+![Turengi kyrka](/posts/2026-08-22-hfors3/21-turengi_kyrka.jpg "Turengi kyrka, 22.8.2026")
 
 ---
 
 ### Riihimäki
-![Riihimäki kyrka](/posts/2026-08-22-hfors3/13-riihimaki_kyrka.jpg "Riihimäkis kyrka, 22.8.2026")
+![Riihimäki kyrka](/posts/2026-08-22-hfors3/13-riihimaki_kyrka.jpg "Riihimäki kyrka, 22.8.2026")
 
 ---
 
 ### Tavastehus
-![Kalvola kyrka](/posts/2026-08-22-hfors3/33-kalvola_kyrka.jpg "Kalvolas kyrka, 22.8.2026")
+![Kalvola kyrka](/posts/2026-08-22-hfors3/33-kalvola_kyrka.jpg "Kalvola kyrka, 22.8.2026")
 ![Tavastehus kyrka](/posts/2026-08-22-hfors3/22-tavastehus_kyrka.jpg "Tavastehus kyrka, 22.8.2026")
 
 ---

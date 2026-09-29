@@ -15,7 +15,7 @@ draft: true
 
 ---
 
-### Brahestad
+### Brahestad (fi: Raahe)
 
 ---
 
@@ -27,7 +27,7 @@ draft: true
 
 ---
 
-### Ijo
+### Ijo (fi: Ii)
 
 ---
 
@@ -35,7 +35,7 @@ draft: true
 
 ---
 
-### Karlö
+### Karlö (fi: Hailuoto)
 
 ---
 
@@ -51,7 +51,7 @@ draft: true
 
 ---
 
-### Limingo
+### Limingo (fi: Liminka)
 
 ---
 
@@ -72,7 +72,7 @@ draft: true
 
 ---
 
-### Oulais
+### Oulais (fi: Oulainen)
 
 ---
 
@@ -117,7 +117,7 @@ draft: true
 
 ---
 
-### Uleåborg
+### Uleåborg (fi: Oulu)
 
 ---
 

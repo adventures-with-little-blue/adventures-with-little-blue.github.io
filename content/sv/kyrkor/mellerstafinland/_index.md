@@ -12,24 +12,24 @@ draft: true
 # Finlands kyrkor - Mellersta Finland
 
 ### Hankasalmi
-![Hankasalmis kyrka](/posts/2026-07-13-sydost1/hankasalmis_kyrka.jpg "Hankasalmis kyrka, 13.7.2026")
+![Hankasalmi kyrka](/posts/2026-07-13-sydost1/hankasalmis_kyrka.jpg "Hankasalmi kyrka, 13.7.2026")
 
 ---
 
 ### Joutsa
-![Leivonmäkis kyrka](/posts/2026-07-16-sydost4/leivonmakis_kyrka.jpg "Leivonmäkis kyrka, 16.7.2026")
+![Leivonmäki kyrka](/posts/2026-07-16-sydost4/leivonmakis_kyrka.jpg "Leivonmäki kyrka, 16.7.2026")
 
 ---
 
 ### Jyväskylä
 ![Korpilax kyrka](/posts/2026-07-16-sydost4/korpilax_kyrka.jpg "Korpilax kyrka, 16.7.2026")
-![Säynätsalos kyrka](/posts/2026-07-16-sydost4/saynatsalos_kyrka.jpg "Säynätsalos kyrka, 16.7.2026")
+![Säynätsalo kyrka](/posts/2026-07-16-sydost4/saynatsalos_kyrka.jpg "Säynätsalo kyrka, 16.7.2026")
 
 ---
 
 ### Jämsä
-![Jämsänkoski kyrka](/posts/2026-08-20-hfors1/11-jamsankoski_kyrka.jpg "Jämsänkoskis kyrka, 20.8.2026")
-![Jämsä kyrka](/posts/2026-08-20-hfors1/12-jamsa_kyrka.jpg "Jämsäs kyrka, 20.8.2026")
+![Jämsänkoski kyrka](/posts/2026-08-20-hfors1/11-jamsankoski_kyrka.jpg "Jämsänkoski kyrka, 20.8.2026")
+![Jämsä kyrka](/posts/2026-08-20-hfors1/12-jamsa_kyrka.jpg "Jämsä kyrka, 20.8.2026")
 
 ---
 
@@ -41,7 +41,7 @@ draft: true
 
 ---
 
-### Keuru
+### Keuru (fi: Keuruu)
 
 ---
 
@@ -59,26 +59,26 @@ draft: true
 ---
 
 ### Kyyjärvi
-![Kyyjärvis kyrka](/posts/2026-07-13-sydost1/kyyjarvis_kyrka1.jpg "Kyyjärvis kyrka, 13.7.2026")
+![Kyyjärvi kyrka](/posts/2026-07-13-sydost1/kyyjarvis_kyrka1.jpg "Kyyjärvi kyrka, 13.7.2026")
 
 ---
 
-### Laukas
+### Laukas (fi: Laukaa)
 
 ---
 
-### Luhango
-![Luhangos kyrka](/posts/2026-07-16-sydost4/luhangos_kyrka.jpg "Luhangos kyrka, 16.7.2026")
+### Luhango (fi: Luhanka)
+![Luhango kyrka](/posts/2026-07-16-sydost4/luhangos_kyrka.jpg "Luhango kyrka, 16.7.2026")
 
 ---
 
-### Muldia (Multia)
-![Muldias kyrka](/posts/2026-07-16-sydost4/muldias_kyrka.jpg "Muldias kyrka, 16.7.2026")
+### Muldia (fi: Multia)
+![Muldia kyrka](/posts/2026-07-16-sydost4/muldias_kyrka.jpg "Muldia kyrka, 16.7.2026")
 
 ---
 
 ### Muurame
-![Muurames kyrka](/posts/2026-07-16-sydost4/muurames_kyrka.jpg "Muurames kyrka, 16.7.2026. Kyrkan är planerad av arkitekten Alvar Aalto.")
+![Muurame kyrka](/posts/2026-07-16-sydost4/muurames_kyrka.jpg "Muurame kyrka, 16.7.2026. Kyrkan är planerad av arkitekten Alvar Aalto.")
 
 ---
 
@@ -93,16 +93,16 @@ draft: true
 ---
 
 ### Saarijärvi
-![Saarijärvis kyrka](/posts/2026-07-13-sydost1/saarijarvis_kyrka.jpg "Saarijärvis kyrka, 13.7.2026")
+![Saarijärvi kyrka](/posts/2026-07-13-sydost1/saarijarvis_kyrka.jpg "Saarijärvi kyrka, 13.7.2026")
 
 ---
 
 ### Toivakka
-![Toivakkas kyrka](/posts/2026-07-16-sydost4/toivakkas_kyrka1.jpg "Toivakkas kyrka, 16.7.2026")
+![Toivakka kyrka](/posts/2026-07-16-sydost4/toivakkas_kyrka1.jpg "Toivakka kyrka, 16.7.2026")
 
 ---
 
-### Urais
+### Urais (fi: Uurainen)
 ![Urais kyrka](/posts/2025-07-09-osterled3/urais_kyrka.jpg "Urais kyrka, 9.7.2025")
 
 ---
@@ -112,5 +112,5 @@ draft: true
 ---
 
 ### Äänekoski
-![Suolahtis kyrka](/posts/2026-07-13-sydost1/suolahtis_kyrka.jpg "Suolahtis kyrka, 13.7.2026")
-![Äänekoskis kyrka](/posts/2026-07-13-sydost1/aanekoskis_kyrka.jpg "Äänekoskis kyrka, 13.7.2026")
+![Suolahti kyrka](/posts/2026-07-13-sydost1/suolahtis_kyrka.jpg "Suolahti kyrka, 13.7.2026")
+![Äänekoski kyrka](/posts/2026-07-13-sydost1/aanekoskis_kyrka.jpg "Äänekoski kyrka, 13.7.2026")

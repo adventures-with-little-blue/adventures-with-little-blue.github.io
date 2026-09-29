@@ -11,7 +11,7 @@ draft: true
 
 # Finlands kyrkor - Mellersta Österbotten
 
-### Halso (Halsua)
+### Halso (fi: Halsua)
 * Halso kyrka
 
 ### Kannus
@@ -28,7 +28,7 @@ draft: true
 * Öja bykyrka
 * Tankar kyrka
 
-### Kaustby
+### Kaustby (fi: Kaustinen)
 * Kaustby kyrka
 
 ### Lestijärvi
@@ -40,5 +40,5 @@ draft: true
 ### Toholampi
 * Toholampi kyrka
 
-### Vetil (Veteli)
+### Vetil (fi: Veteli)
 * Vetil kyrka

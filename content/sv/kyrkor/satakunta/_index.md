@@ -11,8 +11,8 @@ draft: true
 
 # Finlands kyrkor - Satakunda
 
-### Björneborg
-![Björneborgs centrala kyrka](/posts/2026-09-19-abo/56-centrala_bjorneborgs_kyrka.jpg "Björneborgs centrala kyrka, 19.9.2026")
+### Björneborg (fi: Pori)
+![Björneborg centrala kyrka](/posts/2026-09-19-abo/56-centrala_bjorneborgs_kyrka.jpg "Björneborg centrala kyrka, 19.9.2026")
 ![Norrmark kyrka](/posts/2026-08-08-natur-glas-bilar/01-norrmark_kyrka.jpg "Norrmark kyrka, 8.8.2026")
 
 ---
@@ -21,8 +21,8 @@ draft: true
 
 ---
 
-### Euraåminne (Eurajoki)
-![Euraåminne kyrka](/posts/2026-09-19-abo/55-euraaminne_kyrka.jpg "Gustav Adolfs kyrka, Euraåminne, 19.9.2026")
+### Euraåminne (fi: Eurajoki)
+![Euraåminne kyrka](/posts/2026-09-19-abo/55-euraaminne_kyrka.jpg "Gustav Adolfs kyrka i Euraåminne, 19.9.2026")
 ![Luvia kyrka](/posts/2026-09-19-abo/03-luvia_kyrka.jpg "Luvia kyrka, 19.9.2026")
 
 ---
@@ -40,11 +40,11 @@ draft: true
 ---
 
 ### Karvia
-![Karvia kyrka](/posts/2026-08-22-hfors3/44-karvia_kyrka.jpg "Karvias kyrka, 22.8.2026")
+![Karvia kyrka](/posts/2026-08-22-hfors3/44-karvia_kyrka.jpg "Karvia kyrka, 22.8.2026")
 
 ---
 
-### Kumo (Kokemäki)
+### Kumo (fi: Kokemäki)
 ![Kauvatsa kyrka](/posts/2026-08-08-natur-glas-bilar/03-kauvatsa_kyrka.jpg "Kauvatsa kyrka, 8.8.2026")
 
 ---
@@ -53,22 +53,22 @@ draft: true
 
 ---
 
-### Påmark (Pomarkku)
+### Påmark (fi: Pomarkku)
 
 ---
 
-### Raumo (Rauma)
+### Raumo (fi: Rauma)
 ![Kodisjoki kyrka](/posts/2026-09-19-abo/52-kodisjoki_kyrka.jpg "Kodisjoki kyrka, 19.9.2026")
 ![Lappi kyrka](/posts/2026-09-19-abo/53-lappi_kyrka.jpg "Lappi kyrka, 19.9.2026")
 ![Helga Korskyrkan](/posts/2026-09-19-abo/05-raumo_helga_kors_kyrkan.jpg "Helga Korskyrkan, Raumo, 19.9.2026")
 
 ---
 
-### Sastmola (Merikarvia)
+### Sastmola (fi: Merikarvia)
 
 ---
 
-### Siikais (Siikainen)
+### Siikais (fi: Siikainen)
 
 ---
 
@@ -76,11 +76,11 @@ draft: true
 
 ---
 
-### Ulvsby (Ulvila)
+### Ulvsby (fi: Ulvila)
 ![Kulla kyrka](/posts/2026-08-08-natur-glas-bilar/02-kulla_kyrka.jpg "Kulla kyrka, 8.8.2026")
 ![Ulvsby kyrka](/posts/2025-05-30-raumo/ulvsby.jpg "Ulvsby St. Olof kyrka, 30.5.2025")
 
 ---
 
-### Vittis (Huittinen)
+### Vittis (fi: Huittinen)
 ![Vittis kyrka](/posts/2026-08-08-natur-glas-bilar/13-vittis_kyrka.jpg "Vittis kyrka, 8.8.2026")

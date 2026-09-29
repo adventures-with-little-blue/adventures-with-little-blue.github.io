@@ -15,13 +15,13 @@ draft: true
 
 ---
 
-### Jorois (Joroinen)
+### Jorois (fi: Joroinen)
 ![Jorois kyrka](/posts/2026-07-13-sydost1/jorois_kyrka.jpg "Jorois kyrka, 13.7.2026")
 
 ---
 
 ### Kaavi
-![Kaavis kyrka](/posts/2026-07-13-sydost1/kaavis_kyrka.jpg "Kaavis kyrka, 13.7.2026")
+![Kaavi kyrka](/posts/2026-07-13-sydost1/kaavis_kyrka.jpg "Kaavi kyrka, 13.7.2026")
 
 ---
 
@@ -37,7 +37,7 @@ draft: true
 
 ---
 
-### Lapinlax
+### Lapinlax (fi: Lapinlahti)
 
 ---
 
@@ -75,7 +75,7 @@ draft: true
 ---
 
 ### Tuusniemi
-![Tuusniemis kyrka](/posts/2026-07-13-sydost1/tuusniemis_kyrka.jpg "Tuusniemis kyrka, 13.7.2026")
+![Tuusniemi kyrka](/posts/2026-07-13-sydost1/tuusniemis_kyrka.jpg "Tuusniemi kyrka, 13.7.2026")
 
 ---
 

@@ -11,10 +11,10 @@ draft: true
 
 # Finlands kyrkor - Kymmenedalen
 
-### Fredrikshamn (Hamina)
+### Fredrikshamn (fi: Hamina)
 ![Fredrikshamn ortodoxa kyrka](/posts/2026-07-15-sydost3/fredrikshamn_ortodoxa_kyrka.jpg "Fredrikshamn ortodoxa kyrka, 15.7.2026")
-![Johanneskyrkan](/posts/2026-07-15-sydost3/fredrikshamn_johanneskyrkan.jpg "Johanneskyrkan, 15.7.2026")
-![Mariakyrkan](/posts/2026-07-15-sydost3/fredrikshamn_mariakyrkan.jpg "Mariakyrkan, 15.7.2026")
+![Johanneskyrkan](/posts/2026-07-15-sydost3/fredrikshamn_johanneskyrkan.jpg "Johanneskyrkan i Fredrikshamn, 15.7.2026")
+![Mariakyrkan](/posts/2026-07-15-sydost3/fredrikshamn_mariakyrkan.jpg "Mariakyrkan i Fredrikshamn, 15.7.2026")
 
 ---
 
@@ -25,13 +25,13 @@ draft: true
 ---
 
 ### Kouvola
-![Kuusankoskis kyrka](/posts/2026-07-15-sydost3/kuusankoskis_kyrka.jpg "Kuusankoskis kyrka, 15.7.2026")
-![Valkealas kyrka](/posts/2026-07-15-sydost3/valkealas_kyrka.jpg "Valkealas kyrka, 15.7.2026")
+![Kuusankoski kyrka](/posts/2026-07-15-sydost3/kuusankoskis_kyrka.jpg "Kuusankoski kyrka, 15.7.2026")
+![Valkeala kyrka](/posts/2026-07-15-sydost3/valkealas_kyrka.jpg "Valkeala kyrka, 15.7.2026")
 
 ---
 
 ### Miehikkälä
-![Miehikkäläs kyrka](/posts/2026-07-15-sydost3/miehikkalas_kyrka.jpg "Miehikkäläs kyrka, 15.7.2026")
+![Miehikkälä kyrka](/posts/2026-07-15-sydost3/miehikkalas_kyrka.jpg "Miehikkälä kyrka, 15.7.2026")
 
 ---
 
@@ -40,6 +40,6 @@ draft: true
 
 ---
 
-### Vederlax (Virolahti)
-![Klamilas kyrka](/posts/2026-07-15-sydost3/klamilas_kyrka.jpg "Klamilas kyrka, 15.7.2026")
+### Vederlax (fi: Virolahti)
+![Klamila kyrka](/posts/2026-07-15-sydost3/klamilas_kyrka.jpg "Klamila kyrka, 15.7.2026")
 ![Vederlax kyrka](/posts/2026-07-15-sydost3/vederlax_kyrka.jpg "Vederlax kyrka, 15.7.2026")

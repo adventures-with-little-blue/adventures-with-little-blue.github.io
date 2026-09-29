@@ -12,11 +12,11 @@ draft: true
 # Finlands kyrkor - Nyland
 
 ### Askola
-![Askola kyrka](/posts/2026-07-15-sydost3/askola_kyrka.jpg "Askolas kyrka, 15.7.2026")
+![Askola kyrka](/posts/2026-07-15-sydost3/askola_kyrka.jpg "Askola kyrka, 15.7.2026")
 
 ---
 
-### Borgnäs (Pornainen)
+### Borgnäs (fi: Pornainen)
 ![Borgnäs kyrka](/posts/2026-08-21-hfors2/20-borgnas_kyrka.jpg "Borgnäs kyrka, 21.8.2026")
 
 ---
@@ -33,7 +33,7 @@ draft: true
 ---
 
 ### Grankulla
-![Grankulla kyrka](/posts/2026-08-22-hfors3/04-grankulla_kyrka.jpg "Grankullas kyrka, 22.8.2026")
+![Grankulla kyrka](/posts/2026-08-22-hfors3/04-grankulla_kyrka.jpg "Grankulla kyrka, 22.8.2026")
 
 ---
 
@@ -46,12 +46,12 @@ draft: true
 
 ---
 
-### Hyvinge (Hyvinkää)
-![Hyvinge kyrka](/posts/2026-08-22-hfors3/12-hyvinge_kyrka.jpg "Hyvinges kyrka, 22.8.2026")
+### Hyvinge (fi: Hyvinkää)
+![Hyvinge kyrka](/posts/2026-08-22-hfors3/12-hyvinge_kyrka.jpg "Hyvinge kyrka, 22.8.2026")
 
 ---
 
-### Högfors (Karkkila)
+### Högfors (fi: Karkkila)
 
 ---
 
@@ -59,8 +59,8 @@ draft: true
 
 ---
 
-### Kervo (Kerava)
-![Kervo kyrka](/posts/2026-08-21-hfors2/23-kervo_kyrka.jpg "Kervos kyrka, 21.8.2026")
+### Kervo
+![Kervo kyrka](/posts/2026-08-21-hfors2/23-kervo_kyrka.jpg "Kervo kyrka, 21.8.2026")
 
 ---
 
@@ -78,31 +78,31 @@ draft: true
 ---
 
 ### Lovisa
-![Liljendals kyrka](/posts/2026-07-15-sydost3/liljendals_kyrka.jpg "Liljendals kyrka, 15.7.2026")
+![Liljendal kyrka](/posts/2026-07-15-sydost3/liljendals_kyrka.jpg "Liljendal kyrka, 15.7.2026")
 ![Lovisa kyrka](/posts/2026-07-15-sydost3/lovisa_kyrka.jpg "Lovisa kyrka, 15.7.2026")
 ![Pernå kyrka](/posts/2026-07-15-sydost3/perna_kyrka.jpg "Pernå kyrka, 15.7.2026")
 
 ---
 
 ### Mäntsälä
-![Mäntsälä kyrka](/posts/2026-08-21-hfors2/10-mantsala_kyrka.jpg "Mäntsäläs kyrka, 21.8.2026")
+![Mäntsälä kyrka](/posts/2026-08-21-hfors2/10-mantsala_kyrka.jpg "Mäntsälä kyrka, 21.8.2026")
 
 ---
 
 ### Mörskom
-![Mörskoms kyrka](/posts/2026-07-15-sydost3/morskoms_kyrka.jpg "Mörskoms kyrka, 15.7.2026")
+![Mörskom kyrka](/posts/2026-07-15-sydost3/morskoms_kyrka.jpg "Mörskom kyrka, 15.7.2026")
 
 ---
 
 ### Nurmijärvi
-![Klövskog kyrka](/posts/2026-08-22-hfors3/07-klovskog_kyrka.jpg "Klövskogs kyrka, 22.8.2026")
-![Nurmijärvi kyrka](/posts/2026-08-22-hfors3/08-nurmijarvi_kyrka.jpg "Nurmijärvis kyrka, 22.8.2026")
-![Rajamäki kyrka](/posts/2026-08-22-hfors3/09-rajamaki_kyrka.jpg "Rajamäkis kyrka, 22.8.2026")
+![Klövskog kyrka](/posts/2026-08-22-hfors3/07-klovskog_kyrka.jpg "Klövskog kyrka, 22.8.2026")
+![Nurmijärvi kyrka](/posts/2026-08-22-hfors3/08-nurmijarvi_kyrka.jpg "Nurmijärvi kyrka, 22.8.2026")
+![Rajamäki kyrka](/posts/2026-08-22-hfors3/09-rajamaki_kyrka.jpg "Rajamäki kyrka, 22.8.2026")
 
 ---
 
 ### Pukkila
-![Pukkila kyrka](/posts/2026-08-21-hfors2/09-pukkila_kyrka.jpg "Pukkilas kyrka, 21.8.2026")
+![Pukkila kyrka](/posts/2026-08-21-hfors2/09-pukkila_kyrka.jpg "Pukkila kyrka, 21.8.2026")
 
 ---
 
@@ -111,8 +111,8 @@ draft: true
 ---
 
 ### Sibbo
-![Sibbo gamla kyrka](/posts/2026-08-21-hfors2/21-sibbo_gamla_kyrka.jpg "Sibbos gamla kyrka, 21.8.2026")
-![Sibbo nya kyrka](/posts/2026-08-21-hfors2/22-sibbo_nya_kyrka.jpg "Sibbos nya kyrka, 21.8.2026")
+![Sibbo gamla kyrka](/posts/2026-08-21-hfors2/21-sibbo_gamla_kyrka.jpg "Sibbo gamla kyrka, 21.8.2026")
+![Sibbo nya kyrka](/posts/2026-08-21-hfors2/22-sibbo_nya_kyrka.jpg "Sibbo nya kyrka, 21.8.2026")
 
 ---
 
@@ -120,20 +120,20 @@ draft: true
 
 ---
 
-### Träskända (Järvenpää)
-![Träskända kyrka](/posts/2026-08-21-hfors2/14-traskanda_kyrka.jpg "Träskändas kyrka, 21.8.2026")
+### Träskända (fi: Järvenpää)
+![Träskända kyrka](/posts/2026-08-21-hfors2/14-traskanda_kyrka.jpg "Träskända kyrka, 21.8.2026")
 
 ---
 
-### Tusby (Tuusula)
+### Tusby (fi: Tuusula)
 ![Mariefors kyrka](/posts/2026-08-21-hfors2/11-kellokoski_kyrka.jpg "Mariefors (Kellokoski) kyrka, 21.8.2026")
-![Tusby kyrka](/posts/2026-08-21-hfors2/24-tusby_kyrka.jpg "Tusbys kyrka, 21.8.2026")
+![Tusby kyrka](/posts/2026-08-21-hfors2/24-tusby_kyrka.jpg "Tusby kyrka, 21.8.2026")
 
 ---
 
 ### Vanda
-![Helsinge kyrka](/posts/2026-08-21-hfors2/26-helsinge_kyrka.jpg "Helsinges kyrka S:t Lars, 21.8.2026")
+![Helsinge kyrka](/posts/2026-08-21-hfors2/26-helsinge_kyrka.jpg "Helsinge kyrka S:t Lars, 21.8.2026")
 
 ---
 
-### Vichtis (Vihti)
+### Vichtis (fi: Vihti)

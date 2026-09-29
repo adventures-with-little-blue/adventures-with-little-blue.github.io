@@ -12,12 +12,12 @@ draft: true
 # Finlands kyrkor - Norra Karelen
 
 ### Heinävesi
-![Heinävesis kyrka](/posts/2026-07-13-sydost1/heinavesis_kyrka.jpg "Heinävesis kyrka, 13.7.2026")
-![Nya Valamo kloster](/posts/2025-07-08-osterled2/valamo.jpg "Nya Valamo kloster, 8.7.2025")
+![Heinävesi kyrka](/posts/2026-07-13-sydost1/heinavesis_kyrka.jpg "Heinävesi kyrka, 13.7.2026")
+![Nya Valamo kloster](/posts/2025-07-08-osterled2/valamo.jpg "Nya Valamo klosterkyrka, 8.7.2025")
 
 ---
 
-### Ilomants
+### Ilomants (fi: Ilomantsi)
 ![Hattuvaara tsasouna](/posts/2025-07-08-osterled2/hattuvaara1.jpg "Hattuvaara tsasouna, 8.7.2025")
 
 ---
@@ -26,20 +26,20 @@ draft: true
 
 ---
 
-### Juga
+### Juga (fi: Juuka)
 
 ---
 
-### Kides (Kitee)
+### Kides (fi: Kitee)
 ![Kides kyrka](/posts/2026-07-14-sydost2/kides_kyrka.jpg "Kides kyrka, 14.7.2026")
 
 ---
 
-### Kontiolax
+### Kontiolax (fi: Kontiolahti)
 
 ---
 
-### Libelits (Liperi)
+### Libelits (fi: Liperi)
 ![Libelits kyrka](/posts/2026-07-14-sydost2/libelits_kyrka.jpg "Libelits kyrka, 14.7.2026")
 
 ---
@@ -54,20 +54,20 @@ draft: true
 ---
 
 ### Outokumpu
-![Outokumpus kyrka](/posts/2026-07-13-sydost1/outokumpus_kyrka.jpg "Outokumpus kyrka, 13.7.2026")
+![Outokumpu kyrka](/posts/2026-07-13-sydost1/outokumpus_kyrka.jpg "Outokumpu kyrka, 13.7.2026")
 
 ---
 
 ### Polvijärvi
-![Polvijärvis kyrka](/posts/2026-07-13-sydost1/polvijarvis_kyrka2.jpg "Polvijärvis kyrka, 13.7.2026")
+![Polvijärvi kyrka](/posts/2026-07-13-sydost1/polvijarvis_kyrka2.jpg "Polvijärvi kyrka, 13.7.2026")
 
 ---
 
 ### Rääkkylä
-![Rääkkyläs kyrka](/posts/2026-07-14-sydost2/raakkylas_kyrka.jpg "Rääkkyläs kyrka, 14.7.2026")
+![Rääkkylä kyrka](/posts/2026-07-14-sydost2/raakkylas_kyrka.jpg "Rääkkylä kyrka, 14.7.2026")
 
 ---
 
 ### Tohmajärvi
-![Tohmajärvis kyrka](/posts/2026-07-14-sydost2/tohmajarvis_kyrka1.jpg "Tohmajärvis kyrka, 14.7.2026")
-![Värtsiläs kyrka](/posts/2026-07-14-sydost2/vartsilas_kyrka.jpg "Värtsiläs kyrka, 14.7.2026")
+![Tohmajärvi kyrka](/posts/2026-07-14-sydost2/tohmajarvis_kyrka1.jpg "Tohmajärvi kyrka, 14.7.2026")
+![Värtsilä kyrka](/posts/2026-07-14-sydost2/vartsilas_kyrka.jpg "Värtsilä kyrka, 14.7.2026")
