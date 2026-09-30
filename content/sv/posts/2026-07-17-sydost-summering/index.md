@@ -2,20 +2,19 @@
 title: 'Tur till sydöst - summering'
 date: '2026-07-17'
 featured_image: 'mc_talt.jpg'
-draft: true
 tags:
   - finland308
 ---
 
 # Sammanfattning av resan
 
-Idag har jag ingen ny tur att erbjuda och inte heller något meckande. Jag tänkte bara sammanfatta en del om den gångna resan till sydöst.
+I detta inlägg har jag ingen ny tur att erbjuda och inte heller något meckande. Jag tänkte bara sammanfatta en del om den gångna resan till sydöst.
 
 <!--more-->
 
 ## Rutt, distans och tidsplan
 
-Jag hade gjort upp en detaljerad rutt och en ungefärlig tidsplan för resan. Den rutten följde vi till nästan 100% - totalt körde vi en sträcka av 2903 km, enligt Lilla Blues mätare.
+Jag hade gjort upp en detaljerad rutt och en ungefärlig tidsplan för resan. Den rutten följde vi till nästan 100 % – totalt körde vi en sträcka av 2 903 km, enligt Lilla Blues mätare.
 
 * dag 1: 879 km
 * dag 2: 628 km
@@ -24,15 +23,15 @@ Jag hade gjort upp en detaljerad rutt och en ungefärlig tidsplan för resan. De
 
 Jag är ganska nöjd över rutten. Den var optimerad för att dels gå genom alla kommuners centrum och dels för att prioritera mindre (och förhoppningsvis roligare) belagda vägar framom huvudvägarna. Några tiotal kilometer motorväg blev det, Kotka - Borgå och kring S:t Michel. Men mycket av resan gick längs tre och fyrsiffriga vägar, alltså småvägar. Ett par ruttval ångrar jag. Det ena är vägen mellan Kristina och Puumala. Jag valde en grusväg från Kristina upp till Anttola istället för den belagda skärgårdsvägen till Hurissalo (då hade jag missat Anttola). Grusvägen gick enbart genom skog och var svårkörd med mycket löst rullgrus och många kurvor. Den andra vägen hade säkert varit mycket roligare och vackrare och Anttola var egentligen inte så spektakulärt.
 
-Det andra mindre lyckade vägvalet var från Puumala upp till Sulkava. Istället för kortaste vägen (rakt norrut från Puumala), valde att korsa Puumala bro och ta av norrut efter det. Där valde jag vägen via Kietävälä färja. Denna väg var rätt tråkig och ospektakulär och dessutom var beläggningen i dåligt skick. Trots att den var aningen längre och långsammare hade det varit roligare att ta Rongonsalmi färja och istället följa Immola-Sulkava-vägen (väg 438). Längs den vägen finns mera vatten, en kanal och framförallt [Vekaransalmi bro](https://fi.wikipedia.org/wiki/Vekaransalmen_silta) (fi). Dessutom var säkert den vägen i bättre skick också.
-
-Vägarnas skick var överlag kanske lite överraskande - många av de medelsmå och små vägarna var i dåligt eller riktigt dåligt skick. Till exempel stoltserade precis varenda väg längs med första dagens extra rutt (Heinävesi - Tuusniemi - Kaavi- Polvijärvi - Outokumpu) med en skylt som varnade för beläggningsskador. Jag hade trott att vägarna i Österbotten var speciellt dåliga, men det finns nog usla vägar på andra håll också.
+Det andra mindre lyckade vägvalet var från Puumala upp till Sulkava. I stället för kortaste vägen rakt norrut från Puumala valde jag att korsa Puumalabron och ta av norrut efter den. Där valde jag vägen via Kietäväläfärjan. Denna väg var rätt tråkig och ospektakulär, och dessutom var beläggningen i dåligt skick. Trots att den var aningen längre och långsammare hade det varit roligare att ta Rongonsalmifärjan och i stället följa Immola–Sulkava-vägen (väg 438). Längs den vägen finns mera vatten, en kanal och framför allt [Vekaransalmi bro](https://fi.wikipedia.org/wiki/Vekaransalmen_silta) (fi). Dessutom var säkert den vägen i bättre skick också.
 
 ![Rutt](rutt.webp)
 
-På måndagen blev det start kl. 6 på morgonen och jag var tillbaka i Kolovesi från min extratur kl. 23:15 - det blen alltså nästan 17,5 timmar. Visserligen rymdes det ju med en del pauser från sadeln. Också de andra dagarna blev det kring 15 timmar från start till mål. Det lämnar kring 7 timmar till underhåll och vila. Detta är ju en takt som funkar några dagar men som definitivt inte är hållbar i längden. Det krävs mera vila - sömn helt enkelt - och också mera tid för service och att ta det lugnt. Vidare så funkar det ju bara om man är ensam. Är man flera blir det alltid en del extra tid att vänta på andra osv.
+Vägarnas skick var överlag kanske lite överraskande - många av de medelsmå och små vägarna var i dåligt eller riktigt dåligt skick. Till exempel stoltserade precis varenda väg längs med första dagens extra rutt (Heinävesi - Tuusniemi - Kaavi- Polvijärvi - Outokumpu) med en skylt som varnade för beläggningsskador. Jag hade trott att vägarna i Österbotten var speciellt dåliga, men det finns nog usla vägar på andra håll också.
 
-Denna resas mål var ju främst att åka motorcykel och sedan att besöka sydöstra Finlands kommuner. Själva sightseeingen kom på tredje plats. Men trots det, hade jag nog planerat ett allt för tajt tidsschema. Jag hade i och för sig planerat in möjligheter att korta av alla dagar (utom den sista), men väl i sadeln kunde jag inte låta bli att köra varje kilometer. Det blev lite av en tidspress, vilket ledde till att jag kortade av besöken i städerna och tiden ur sadeln och att jag skippade de flesta av de inplanerade restaurangbesöken. Vid övernattningarna blev det mest att sova, jag hade knappt någon tid att se mig runt.
+På måndagen blev det start kl. 6 på morgonen och jag var tillbaka i Kolovesi från min extratur kl. 23:15 – det blev alltså nästan 17,5 timmar. Visserligen rymdes det ju med en del pauser från sadeln. Också de andra dagarna blev det kring 15 timmar från start till mål. Det lämnar kring 7 timmar till underhåll och vila. Detta är ju en takt som funkar några dagar men som definitivt inte är hållbar i längden. Det krävs mera vila – sömn helt enkelt – och också mera tid för service och att ta det lugnt. Vidare funkar det ju bara om man är ensam. Är man flera blir det alltid en del extra tid att vänta på andra och så vidare.
+
+Denna resas mål var ju främst att åka motorcykel och sedan att besöka sydöstra Finlands kommuner. Själva sightseeingen kom på tredje plats. Men trots det hade jag nog planerat ett alltför tajt tidsschema. Jag hade i och för sig planerat in möjligheter att korta av alla dagar (utom den sista), men väl i sadeln kunde jag inte låta bli att köra varje kilometer. Det blev lite av en tidspress, vilket ledde till att jag kortade av besöken i städerna och tiden ur sadeln och att jag skippade de flesta av de inplanerade restaurangbesöken. Vid övernattningarna blev det mest att sova, jag hade knappt någon tid att se mig runt.
 
 Att känna tidspress gjorde att jag inte hade tid att njuta av att "bara vara". Jag uppskattar att flanera runt i en vacker stad, gå på en kort vandring i en nationalpark eller njuta av god mat, men nu blev det mindre sådant. Till en ny gång kanske jag får planera mindre körning och mera tid för besöken.
 
@@ -40,10 +39,11 @@ Att känna tidspress gjorde att jag inte hade tid att njuta av att "bara vara". 
 
 Totalt besökte vi 46 nya kommuner på fyra dagar. Jag och Lilla Blue har nu tillsammans besökt 207 av Finlands 308 kommuner.
 
-### Bränsle
+### Bränsle och kostnader
 
 Jag tankade 11 gånger (inklusive före resan), totalt 124,59 l för 261,73 €. Förmånligast på ABC automat Mannerheimvägen i Borgå för 1,884 €/l, dyrast 2,199 €/l på ABC Viipurinportti i Villmanstrand. Snittförbrukningen låg kring 4,15 l/100 km, vilket väl får sägas är mycket bra. Jag är dock lite osäker på om detta faktiskt stämmer. Dels mätte jag upp den lägsta förbrukningen per tank jag någonsin haft (3,69 l/100km - vilket knappast kan stämma) och dels har trippmätaren och den vanliga km-mätaren plötsligt börjat visa olika sträckor, vilket tyder på att det är något strul med mätaren.
 
+Förutom bränsle har jag varit rätt sparsam. Ett besök på fine dining restaurang och ett par besök på lunchrestauranger. Lite livsmedel från butiken och en kaffe från en bensinstation. Inträdet till Olofsborg och Kejsarens fiskestuga kostade också några tior. Man borde kanske skaffa ett museumskort?
 
 ## Val av lägerplats
 
@@ -62,7 +62,7 @@ Nu började det bli sent och jag var så pass hungrig att jag började bli lite 
 ![MC och tält](mc_talt.jpg "MC:n parkerad bredvid tältet.")
 
 
-Jag vet inte rikgtigt hur jag skall välja lägerplatser i framtiden heller. Det är mycket svårt att hitta den där ideala platsen - ett vindskydd vid en sjö, där det inte heller finns andra campare. Också utan vindskydd är det svårt att hitta en sjöstrand - åtminstone i den södra delen av landet är så gott som varje sjöstrand med väg upptagen av en sommarstuga. Nationalparker är krångliga av ovan nämnda skäl. Friluftsområden som tillåter övernattning, typ Päihäniemi, finns det inte så många av. Så det blir väl att scouta noggrannt och sedan ändå vara beredd på att nöja sig med någon vändplan på en skogsbilväg i framtiden. 
+Jag vet inte riktigt hur jag ska välja lägerplatser i framtiden heller. Det är mycket svårt att hitta den där ideala platsen – ett vindskydd vid en sjö, där det inte heller finns andra campare. Också utan vindskydd är det svårt att hitta en sjöstrand – åtminstone i den södra delen av landet är så gott som varje sjöstrand med väg upptagen av en sommarstuga. Nationalparker är krångliga av ovan nämnda skäl. Friluftsområden som tillåter övernattning, typ Päihäniemi, finns det inte så många av. Så det blir väl att scouta noggrant och sedan ändå vara beredd på att nöja sig med någon vändplan på en skogsbilväg i framtiden.
 
 
 ## Utrustning
@@ -75,19 +75,19 @@ Jag använde samma upplägg som senast. I sadelväskorna packade jag kläder, so
 
 När jag parkerade motorcykeln i någon stad och ville lämna hjälm och jacka, låste jag fast dem med vajerlås. Visserligen är det väl mest en symbolisk grej, men det är i varje fall inte utan krångel att nappa med sig grejerna när man går förbi.
 
-Jag hade packat rätt mängd kläder och utrustning. Av kläderna var det bara en tskjorta och ett par strumpor som jag inte använde. Och tack och lov behövdes inte regnstället heller. 
+Jag hade packat rätt mängd kläder och utrustning. Av kläderna var det bara en t-shirt och ett par strumpor som jag inte använde. Och tack och lov behövdes inte regnstället heller.
 
 Den nyligen inhandlade gasbrännaren kom till användning och fungerade alldeles utmärkt. Den senaste resan hade jag med mig spritkök, men ett sådant orkade jag helt enkelt inte gräva fram och mixtra med. Det tar länge att värma vatten och sedan skall spriten brännas ur för att det inte skall läcka osv. Gasköket däremot är snabbt, kompakt och lätt att packa undan igen. Jag tillredde flera måltider av den frystorkade maten jag hade med mig. Lätt att bara värma vatten. Jag kokade också kaffe och fyllde termosen på morgnarna. Däremot visade sig en del av den extra mat jag packat med (knäckebröd, mjukost på tub, nötter) vara onödig. Jag glömde liksom bort att jag hade detta käk.
 
-Det enda riktiga klavertrampet? Jag hade en flaska myggmedel i tankväskan och denna eländiga flaska läckte, med påföljden att allt i tankväskan började stinka myggmedel. Det värsta är att precis samma sak hände senaste resa också. Om man inte lär sig av sina misstag... Hädanefter får den nog åka i en sadelväska, där den förhoppninsvis inte läcker.
+Det enda riktiga klavertrampet? Jag hade en flaska myggmedel i tankväskan och denna eländiga flaska läckte, med påföljden att allt i tankväskan började stinka myggmedel. Det värsta är att precis samma sak hände på senaste resan också. Om man inte lär sig av sina misstag... Hädanefter får den nog åka i en sadelväska, där den förhoppningsvis inte läcker.
 
 ## Service
 
-Mc:n höll ihop. Visserligen var jag ett tag orolig att det var något problem med laddningen. Det tog en stund innan något hände när man tryckte på startknappen. Spänningsmätaren på USB-uttaget visade rätt låga värden (< 14V vid körning). Då slutade jag ladda telefon från USB-uttaget och använde batteribanken istället. Startproblemet blev mindre markant. Jag vet inte om detta bara var inbillning eller om regulatorn faktiskt ger för lite ström för att driva tändning, belysning Android-auto skärm och USB-laddare. Jag kom mig i varje fall hem och när jag pluggade i laddaren visade den inget speciellt.
+Mc:n höll ihop. Visserligen var jag ett tag orolig att det var något problem med laddningen. Det tog en stund innan något hände när man tryckte på startknappen. Spänningsmätaren på USB-uttaget visade rätt låga värden (< 14V vid körning). Då slutade jag ladda telefon från USB-uttaget och använde batteribanken istället. Startproblemet blev mindre markant. Jag vet inte om detta bara var inbillning eller om regulatorn faktiskt ger för lite ström för att driva tändning, belysning, Android Auto-skärm och USB-laddare. Jag kom mig i varje fall hem och när jag pluggade i laddaren visade den inget speciellt.
 
 Blinkers vänster bak krånglade återigen, tidvis. Tydligen höll min reparation inte. Sadelväskorna böjer blinkers-skaften, så detta var antagligen tillräckligt för att få lödningen att lossa.
 
-En sak som blev ogjort var att smörja keden. Den skall helst smörjas varje 1000 km, så det borde jag nog ha gjort. Problemet är att jag har smörjmedelsburken och andra verktyg under sadeln. För att komma åt burken måste sadeln bort. Och för att komma åt att öppna sadeln måste sadelväskor och tält bort. Vilket ju är extra jobbigt.
+En sak som blev ogjord var att smörja kedjan. Den ska helst smörjas var 1 000:e km, så det borde jag nog ha gjort. Problemet är att jag har smörjmedelsburken och andra verktyg under sadeln. För att komma åt burken måste sadeln bort. Och för att komma åt att öppna sadeln måste sadelväskor och tält bort. Vilket ju är extra jobbigt.
 
 
 ## Sammanfattning
@@ -96,4 +96,4 @@ På det hela taget en mycket lyckad och rätt problemfri resa. Vädret var i det
 
 ![I tältet](nyvaken.jpg "Väckning kl. 6 varje morgon.")
 
-Ont i bakänden eller behov att hållas bort från hojen har jag inte (var faktisk med hojen på en 114 km kort tur till närbutiken idag, hur kul som helst). Så gärna mera touring, snart igen!
+Ont i bakänden eller behov av att hållas borta från hojen har jag inte (var faktiskt med hojen på en kort tur på 114 km till närbutiken i dag, hur kul som helst). Så gärna mer touring, snart igen!
