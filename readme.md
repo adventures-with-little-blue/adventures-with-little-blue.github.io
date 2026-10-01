@@ -1,6 +1,6 @@
 # Motoblog om Lilla Blue
 
-https://adventures-with-little-blue.github.io/blog/
+https://adventures-with-little-blue.github.io/
 
 ### Kommandon
 
