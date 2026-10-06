@@ -1,6 +1,6 @@
 ---
 title: 'Finland/308'
-date: '2026-09-20'
+date: '2026-10-05'
 menu:
   main:
     weight: 2
@@ -16,13 +16,13 @@ Mitt långsiktiga mål är att tillsammans med Lilla Blue besöka alla kommuner 
 <!--more-->
 
 ### Status
-_Status den 20. september 2026_
+_Status den 5. oktober 2026_
 
-Lilla Blue och jag har tillsammans besökt 250 av 308 kommuner i Finland. Så många kommuner har vi besökt för första gången, per år:
+Lilla Blue och jag har tillsammans besökt 256 av 308 kommuner i Finland. Så många kommuner har vi besökt för första gången, per år:
 * 2023 - 10 kommuner
 * 2024 - 43 kommuner
 * 2025 - 108 kommuner
-* 2026 - 89 kommuner
+* 2026 - 95 kommuner
 
 ![Besökta kommuner](map_visited.webp)
 
@@ -41,12 +41,12 @@ Vi har besökt alla kommuner i de följande landskapen:
 * Egentliga Tavastland - 11 kommuner (22.8.2026)
 
 Vi har besökt minst en kommun i följande landskap:
-* Egentliga Finland - 14/27 kommuner
+* Egentliga Finland - 19/27 kommuner
 * Kajanaland - 5/8 kommuner
 * Lappland - 14/21 kommuner
 * Norra Savolax - 13/19 kommuner
 * Norra Österbotten - 21/30 kommuner
-* Nyland - 22/26 kommuner
+* Nyland - 23/26 kommuner
 
 Det enda landskap vi inte alls har besökt är:
 * Åland - 0/16 kommuner

@@ -61,12 +61,12 @@ draft: true
 
 ### Kurikka
 
-* Jalasjärvi kyrka
+![Jalasjärvi kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/04-jalasjarvi_kyrka.jpg "Jalasjärvi kyrka, 2.10.2026")
 
 ![Jurva kyrka](/posts/2026-05-02-varggrottan/jurva_kyrka.jpg "Jurva kyrka, 2.5.2026")
 ![Koskue kyrka](/posts/2026-08-08-natur-glas-bilar/65-koskue_kyrka.jpg "Koskue kyrka, 8.8.2026")
 
-* Kurikka kyrka
+![Kurikka kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/03-kurikka_kyrka.jpg "Kurikka kyrka, 2.10.2026")
 * Leirikirkko, Kesäranta
 
 ![Sarvijoki bönehus](/posts/2026-05-18-portom-hinjarv/sarvijoki_bonehus.jpg "Sarvijoki bönehus, 18.5.2026")
@@ -100,7 +100,7 @@ draft: true
 * Soini kyrka
 
 ### Storå  (fi: Isojoki)
-* Storå kyrka
+![Storå kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/48-stora_kyrka.jpg "Storå kyrka, 4.10.2026")
 
 ---
 

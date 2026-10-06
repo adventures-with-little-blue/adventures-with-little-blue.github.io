@@ -1,6 +1,6 @@
 ---
 title: 'Suomi/308'
-date: '2026-09-20'
+date: '2026-10-05'
 menu:
   main:
     weight: 2
@@ -16,13 +16,13 @@ Pitkän aikavälin tavoitteeni on vierailla kaikissa Suomen kunnissa yhdessä Pi
 <!--more-->
 
 ### Status
-_Tilanne 20. syyskuuta 2026_
+_Tilanne 5. lokakuuta 2026_
 
-Pikku-Blue ja minä olemme yhdessä vierailleet 250:ssä Suomen 308 kunnasta. Näin monessa kunnassa olemme käyneet ensimmäistä kertaa vuosittain:
+Pikku-Blue ja minä olemme yhdessä vierailleet 256:ssa Suomen 308 kunnasta. Näin monessa kunnassa olemme käyneet ensimmäistä kertaa vuosittain:
 * 2023 - 10 kuntaa
 * 2024 - 43 kuntaa
 * 2025 - 108 kuntaa
-* 2026 - 89 kuntaa
+* 2026 - 95 kuntaa
 
 ![Vieraillut kunnat](map_visited.webp)
 
@@ -41,12 +41,12 @@ Olemme vierailleet kaikissa seuraavien maakuntien kunnissa:
 * Kanta-Häme - 11 kuntaa (22.8.2026)
 
 Olemme vierailleet vähintään yhdessä kunnassa seuraavissa maakunnissa:
-* Varsinais-Suomi - 14/27 kuntaa
+* Varsinais-Suomi - 19/27 kuntaa
 * Kainuu - 5/8 kuntaa
 * Lappi - 14/21 kuntaa
 * Pohjois-Savo - 13/19 kuntaa
 * Pohjois-Pohjanmaa - 21/30 kuntaa
-* Uusimaa - 22/26 kuntaa
+* Uusimaa - 23/26 kuntaa
 
 Ainoa maakunta, jossa emme ole vielä käyneet lainkaan, on:
 * Ahvenanmaa - 0/16 kuntaa

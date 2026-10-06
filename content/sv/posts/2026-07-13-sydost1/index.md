@@ -4,6 +4,7 @@ date: '2026-07-13'
 featured_image: 'olofsborg3.jpg'
 tags:
   - finland308
+  - nationalpark
 ---
 
 # Olofsborg, Kolovesi och en kvällstur

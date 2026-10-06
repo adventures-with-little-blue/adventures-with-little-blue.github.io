@@ -34,6 +34,7 @@ draft: true
 
 ### Kangasala
 ![Kangasala kyrka](/posts/2025-09-06-tour-tammerfors/kangasala3.jpg "Kangasala kyrka, 6.9.2025")
+![Kuhmalahti kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/17-kuhmalahti_kyrka.jpg "Kuhmalahti kyrka, 3.10.2026")
 
 ---
 
@@ -64,6 +65,8 @@ draft: true
 ---
 
 ### Orivesi
+![Eräjärvi kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/16-erajarvi_kyrka.jpg "Eräjärvi kyrka, 3.10.2026")
+![Orivesi kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/15-orivesi_kyrka.jpg "Orivesi kyrka, 3.10.2026")
 
 ---
 
@@ -78,6 +81,7 @@ draft: true
 ---
 
 ### Pälkäne
+![Luopiois kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/18-luopiois_kyrka.jpg "Luopiois kyrka, 3.10.2026")
 ![Pälkäne kyrka](/posts/2026-08-08-natur-glas-bilar/49_5-palkane_kyrka.jpg "Pälkäne kyrka, 8.8.2026")
 ![Pälkäne kyrkoruin](/posts/2026-08-08-natur-glas-bilar/51-palkane_gamla_kyrka2.jpg "Pälkäne kyrkoruin, 8.8.2026")
 
@@ -85,11 +89,14 @@ draft: true
 
 ### Ruovesi
 ![Murole kyrka](/posts/2026-08-08-natur-glas-bilar/60-murole_kyrka.jpg "Murole kyrka, 8.8.2026")
+![Ruovesi kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/10-ruovesi_kyrka.jpg "Ruovesi kyrka, 2.10.2026")
 
 ---
 
 ### Sastamala
 ![Keikyä kyrka](/posts/2026-08-08-natur-glas-bilar/08-keikya_kyrka.jpg "Keikyä kyrka, 8.8.2026")
+![Kiikka kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/42-kiikka_kyrka.jpg "Kiikka kyrka, 4.10.2026")
+![Kikois kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/43-kikois_kyrka.jpg "Kikois kyrka, 4.10.2026")
 
 ---
 
@@ -119,6 +126,8 @@ draft: true
 
 ### Virdois (fi: Virrat)
 ![Killinkoski kyrka](/posts/2026-08-20-hfors1/04-killinkoski_kyrka.jpg "Killinkoski kyrka, 20.8.2026")
+![Kulkurin kappeli](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/09-kulkurin_kappeli.jpg "Kulkurin kappeli, 2.10.2026")
+![Virdois kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/05-virdois_kyrka.jpg "Virdois kyrka, 2.10.2026")
 
 ---
 

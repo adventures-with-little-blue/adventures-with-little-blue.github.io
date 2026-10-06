@@ -12,6 +12,7 @@ draft: true
 # Finlands kyrkor - Egentliga Finland
 
 ### Aura
+![Aura kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/37-aura_kyrka.jpg "Aura kyrka, 4.10.2026")
 
 ---
 
@@ -24,6 +25,7 @@ draft: true
 ---
 
 ### Koskis (fi: Koski Tl)
+![Koskis kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/34-koskis_kyrka.jpg "Koskis kyrka, 4.10.2026")
 
 ---
 
@@ -34,14 +36,17 @@ draft: true
 ---
 
 ### Loimaa
+![Virttaa kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/40-virttaa_kyrka.jpg "Virttaa kyrka, 4.10.2026")
 
 ---
 
 ### Lundo (fi: Lieto)
+![Tarvasjoki kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/36-tarvasjoki_kyrka.jpg "Tarvasjoki kyrka, 4.10.2026")
 
 ---
 
 ### S:t Mårtens (fi: Marttila)
+![S:t Mårtens kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/35-st_martens_kyrka.jpg "S:t Mårtens kyrka, 4.10.2026")
 
 ---
 
@@ -70,6 +75,7 @@ draft: true
 ---
 
 ### Oripää
+![Oripää kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/39-oripaa_kyrka.jpg "Oripää kyrka, 4.10.2026")
 
 ---
 
@@ -87,6 +93,7 @@ draft: true
 ---
 
 ### Pöytis (fi: Pöytyä)
+![Pöytis kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/38-poytis_kyrka.jpg "Pöytis kyrka, 4.10.2026")
 
 ---
 
@@ -113,6 +120,8 @@ draft: true
 ---
 
 ### Somero
+![Somero kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/32-somero_kyrka.jpg "Somero kyrka, 4.10.2026")
+![Sommarnäs kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/31-sommarnas_kyrka.jpg "Sommarnäs (fi: Somerniemi) kyrka, 4.10.2026")
 
 ---
 

@@ -52,6 +52,7 @@ draft: true
 ---
 
 ### Högfors (fi: Karkkila)
+![Högfors kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/23-hogfors_kyrka.jpg "Högfors kyrka, 3.10.2026")
 
 ---
 

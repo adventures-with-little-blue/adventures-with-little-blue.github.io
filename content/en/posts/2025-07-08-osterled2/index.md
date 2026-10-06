@@ -4,6 +4,7 @@ date: '2025-07-08'
 featured_image: 'virmajarvi2.jpg'
 tags:
  - finland308
+ - nationalpark
 ---
 
 ## Finland's rainiest point?

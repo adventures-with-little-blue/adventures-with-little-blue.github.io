@@ -13,6 +13,7 @@ draft: true
 
 ### Björneborg (fi: Pori)
 ![Björneborg centrala kyrka](/posts/2026-09-19-abo/56-centrala_bjorneborgs_kyrka.jpg "Björneborg centrala kyrka, 19.9.2026")
+![Lavia kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/44-lavia_kyrka.jpg "Lavia kyrka, 4.10.2026")
 ![Norrmark kyrka](/posts/2026-08-08-natur-glas-bilar/01-norrmark_kyrka.jpg "Norrmark kyrka, 8.8.2026")
 
 ---
@@ -36,6 +37,8 @@ draft: true
 ---
 
 ### Kankaanpää
+![Honkajoki kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/46-honkajoki_kyrka.jpg "Honkajoki kyrka, 4.10.2026")
+![Kankaanpää kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/45-kankaanpaa_kyrka.jpg "Kankaanpää kyrka, 4.10.2026")
 
 ---
 
@@ -83,4 +86,5 @@ draft: true
 ---
 
 ### Vittis (fi: Huittinen)
+![Vambula kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/41-vambula_kyrka.jpg "Vambula kyrka, 4.10.2026")
 ![Vittis kyrka](/posts/2026-08-08-natur-glas-bilar/13-vittis_kyrka.jpg "Vittis kyrka, 8.8.2026")

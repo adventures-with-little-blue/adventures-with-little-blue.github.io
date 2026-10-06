@@ -4,6 +4,7 @@ date: '2025-09-06'
 featured_image: 'hataanpaa1.jpg'
 tags:
   - finland308
+  - nationalpark
 ---
 
 # Tour de Pirkanmaa

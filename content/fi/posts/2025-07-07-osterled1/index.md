@@ -4,6 +4,7 @@ date: '2025-07-07'
 featured_image: 'koli2.jpg'
 tags:
  - finland308
+ - kansallispuisto
 ---
 
 ## Kolin kansallispuistoon

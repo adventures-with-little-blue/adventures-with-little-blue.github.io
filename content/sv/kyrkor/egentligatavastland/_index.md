@@ -32,14 +32,21 @@ draft: true
 
 ---
 
-### Jockis (fi: Jokioinen)
-![Jockis kyrka](/posts/2026-08-08-natur-glas-bilar/17-jockis_kyrka.jpg "Jockis kyrka, 8.8.2026")
----
-
 ### Janakkala
 ![Janakkala kyrka](/posts/2026-08-22-hfors3/20-janakkala_kyrka.jpg "Janakkala gamla kyrka, 22.8.2026")
 ![Tervakoski kyrka](/posts/2026-08-22-hfors3/16-tervakoski_kyrka.jpg "Tervakoski kyrka, 22.8.2026")
 ![Turengi kyrka](/posts/2026-08-22-hfors3/21-turengi_kyrka.jpg "Turengi kyrka, 22.8.2026")
+
+---
+
+### Jockis (fi: Jokioinen)
+![Jockis kyrka](/posts/2026-08-08-natur-glas-bilar/17-jockis_kyrka.jpg "Jockis kyrka, 8.8.2026")
+
+---
+
+### Loppis
+![Loppis gamla kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/22-loppis_gamla_kyrka.jpg "Loppis gamla kyrka, 3.10.2026")
+![Loppis kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/21-loppis_kyrka.jpg "Loppis kyrka, 3.10.2026")
 
 ---
 
@@ -48,11 +55,13 @@ draft: true
 
 ---
 
-### Tavastehus
-![Kalvola kyrka](/posts/2026-08-22-hfors3/33-kalvola_kyrka.jpg "Kalvola kyrka, 22.8.2026")
-![Tavastehus kyrka](/posts/2026-08-22-hfors3/22-tavastehus_kyrka.jpg "Tavastehus kyrka, 22.8.2026")
+### Tammela
+![Tammela kyrka](/posts/2026-08-08-natur-glas-bilar/22-tammela_kyrka.jpg "Tammela kyrka, 8.8.2026")
 
 ---
 
-### Tammela
-![Tammela kyrka](/posts/2026-08-08-natur-glas-bilar/22-tammela_kyrka.jpg "Tammela kyrka, 8.8.2026")
+### Tavastehus
+![Hauho kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/19-hauho_kyrka.jpg "Hauho kyrka, 3.10.2026")
+![Kalvola kyrka](/posts/2026-08-22-hfors3/33-kalvola_kyrka.jpg "Kalvola kyrka, 22.8.2026")
+![Renko kyrka](/posts/2026-10-04-helvetinjarvi-och-liesjarvi/20-renko_kyrka.jpg "Renko kyrka, 3.10.2026")
+![Tavastehus kyrka](/posts/2026-08-22-hfors3/22-tavastehus_kyrka.jpg "Tavastehus kyrka, 22.8.2026")

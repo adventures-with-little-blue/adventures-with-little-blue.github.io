@@ -4,6 +4,7 @@ date: '2026-08-08'
 featured_image: '54-bilmuseum3.jpg'
 tags:
   - finland308
+  - nationalpark
 ---
 
 # A museum trip through Satakunta, Kanta-Häme and Pirkanmaa
