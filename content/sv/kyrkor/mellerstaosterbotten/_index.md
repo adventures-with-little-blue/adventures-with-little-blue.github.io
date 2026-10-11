@@ -21,7 +21,9 @@ draft: true
 
 * Gamlakarleby stadskyrka
 * Karleby sockenkyrka
-* Kelviå kyrka (22.6.2025)
+
+![Kelviå kyrka](kelvia_kyrka.jpg "Kelviå kyrka, 22.6.2025.")
+
 * Lochteå kyrka
 * Ullava kyrka
 * Yxpila kyrka
