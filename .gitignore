@@ -1,6 +1,6 @@
 .hugo_build.lock
 tmp-*
-static/
+static/_gen/
 resources/
 .vscode/
 public/
