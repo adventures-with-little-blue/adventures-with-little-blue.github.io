@@ -1,7 +1,6 @@
 ---
 title: 'Changed Chain and Sprockets Again'
 date: '2026-10-14'
-draft: true
 featured_image: '05-skarv.jpg'
 tags:
   - tinkering

@@ -1,7 +1,6 @@
 ---
 title: 'Vaihdoin ketjut ja rattaat jälleen'
 date: '2026-10-14'
-draft: true
 featured_image: '05-skarv.jpg'
 tags:
   - ruuvausta

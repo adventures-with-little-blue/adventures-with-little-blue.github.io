@@ -1,7 +1,6 @@
 ---
 title: 'Bytt drivpaket igen'
 date: '2026-10-14'
-draft: true
 featured_image: '05-skarv.jpg'
 tags:
   - skruvande
