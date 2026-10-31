@@ -72,8 +72,7 @@ draft: true
 --- 
 
 ### Nykarleby
-* Jeppo kyrka
-
+![Jeppo kyrka](/posts/2026-10-31-oravais-slagfalt/jeppo_kyrka.jpg "Jeppo kyrka, 31.10.2026")
 ![Munsala kyrka](/posts/2026-07-21-jakobstad/munsala_kyrka.jpg "Munsala kyrka, 21.7.2026")
 ![Nykarleby Sankta Birgitta kyrka](/posts/2026-07-21-jakobstad/nykarleby_kyrka.jpg "Nykarleby Sankta Birgitta kyrka, 21.7.2026")
 
@@ -109,7 +108,5 @@ draft: true
 
 ### Vörå
 ![Maxmo kyrka](/posts/2026-09-14-kvallstur/maxmo_kyrka.jpg "Maxmo kyrka, 14.9.2026")
-
-* Oravais kyrka
-
+![Oravais kyrka](/posts/2026-10-31-oravais-slagfalt/oravais_kyrka.jpg "Oravais kyrka, 31.10.2026")
 ![Vörå kyrka](/posts/2026-09-14-kvallstur/vora_kyrka.jpg "Vörå kyrka, 14.9.2026")
